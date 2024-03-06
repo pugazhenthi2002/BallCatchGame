@@ -1,0 +1,10 @@
+C:\Users\Pugaizhenthi\source\repos\BallCatchGame\BallCatchGame\bin\Debug\BallCatchGame.exe.config
+C:\Users\Pugaizhenthi\source\repos\BallCatchGame\BallCatchGame\bin\Debug\BallCatchGame.exe
+C:\Users\Pugaizhenthi\source\repos\BallCatchGame\BallCatchGame\bin\Debug\BallCatchGame.pdb
+C:\Users\Pugaizhenthi\source\repos\BallCatchGame\BallCatchGame\obj\Debug\BallCatchGame.Properties.Resources.resources
+C:\Users\Pugaizhenthi\source\repos\BallCatchGame\BallCatchGame\obj\Debug\BallCatchGame.csproj.GenerateResource.cache
+C:\Users\Pugaizhenthi\source\repos\BallCatchGame\BallCatchGame\obj\Debug\BallCatchGame.csproj.CoreCompileInputs.cache
+C:\Users\Pugaizhenthi\source\repos\BallCatchGame\BallCatchGame\obj\Debug\BallCatchGame.exe
+C:\Users\Pugaizhenthi\source\repos\BallCatchGame\BallCatchGame\obj\Debug\BallCatchGame.pdb
+C:\Users\Pugaizhenthi\source\repos\BallCatchGame\BallCatchGame\obj\Debug\BallCatchGame.Form1.resources
+C:\Users\Pugaizhenthi\source\repos\BallCatchGame\BallCatchGame\obj\Debug\BallCatchGame.csprojAssemblyReference.cache
